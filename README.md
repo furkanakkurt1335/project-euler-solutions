@@ -1,6 +1,6 @@
 # Project-Euler
 
-A repository of my solutions to the problems on Project Euler. Only including first 100 as per the requirement.
+A repository of my solutions to the problems on Project Euler. Only including first 100 as per [the requirement](https://projecteuler.net/about).
 
 ## Links
 
