@@ -1,0 +1,10 @@
+f = open('p022_names.txt', 'r', encoding='utf-8')
+s = f.read().split('","')
+s[0] = s[0].replace('"', '')
+s[-1] = s[-1].replace('"', '')
+f.close()
+s = sorted(s)
+f = open('sorted_p022_names.txt', 'w', encoding='utf-8')
+for i in range(len(s)):
+    f.write(s[i] + '\n')
+f.close()
