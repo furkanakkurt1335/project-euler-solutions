@@ -1,4 +1,8 @@
 # Project-Euler
-My solutions to Project Euler problems  
 
-[Link to the problems](https://projecteuler.net/)  
+A repository of my solutions to the problems on Project Euler. Only including first 100 as per the requirement.
+
+## Links
+
+- [Problems](https://projecteuler.net/archives)
+- [My profile](https://projecteuler.net/progress=furkanakkurt1806)
